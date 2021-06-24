@@ -7,3 +7,5 @@ This is my first machine learning model. I try the following classification algo
 - KNeighborsClassifier
 - RandomForestClassifier
 - MultinomialNB
+
+http://archive.ics.uci.edu/ml/datasets/Heart+Disease
